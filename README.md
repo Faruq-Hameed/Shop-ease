@@ -1,2 +1,2 @@
 <!-- //Landing page-->
-![Landing Page Screenshot](/image.png)
+![Landing Page Screenshot](/landingPage.png)
